@@ -1,0 +1,40 @@
+body{
+    margin: 0px;
+    background: linear-gradient( to left, white, red); 
+   
+}
+
+header{
+    text-align: center;
+    background-image: url(valorant.JPG.png );
+    font-size: 50px;
+    background-size: cover;
+}
+
+
+h1{
+    padding-top: 50px;
+}
+.box1{
+    
+    padding: 10%;
+}
+footer{
+    background-color: lightskyblue;
+}
+.container{
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%
+}
+.header_text{
+    background-color: rgba(137,101,103,1.00);
+    padding: 10px;
+    color: bisque;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-shadow: #fc0 1px 0 10px;
+}
+body{
+    font-family: 'Times New Roman', Times, serif;
+}
